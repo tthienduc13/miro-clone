@@ -29,7 +29,7 @@ type UserMeta = {
   id?: string;
   info?: {
     name?: string;
-    imageUrl?: string;
+    picture?: string;
   };
 };
 
